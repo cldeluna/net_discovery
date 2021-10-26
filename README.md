@@ -220,7 +220,7 @@ optional arguments:
   -s SHOW_CMD, --show_cmd SHOW_CMD
                         Execute a single show command
   -n NOTE, --note NOTE  Short note to distinguish show commands. Ex. -pre or -post
-  -m, --mfa             Multi Factor Authentication will prompt for VIP, MS Auth, Google auth, or other 2-Factor code
+  -m, --mfa             Multi Factor Authentication will prompt for 2-Factor code
   -c, --credentials     Set Credentials via Command Line interactively
   -f FILE_OF_DEVS, --file_of_devs FILE_OF_DEVS
                         Provide the full path to a text file containing an IP or FQDN on each line (see example_device_file.txt) to execute show commands on multiple devices with the same credentials.
