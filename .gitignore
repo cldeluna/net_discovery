@@ -1,0 +1,17 @@
+__pycache__
+.idea
+.DS_Store
+*,pyc
+*test*
+.idea/
+site*
+.env
+*.zip
+local*
+Log*.txt
+*.log
+ntc-templates
+*.txt
+*myenv
+
+
