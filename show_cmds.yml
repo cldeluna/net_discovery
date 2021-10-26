@@ -1,0 +1,9 @@
+# Dictionary where key is "ios_show_commands" and value is a list of show commands
+general_show_commands:
+  - term len 0
+  - show run
+ios_show_commands:
+  - term len 0
+  - show run
+  - show version
+  - show inventory
