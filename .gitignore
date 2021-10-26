@@ -14,5 +14,7 @@ ntc-templates
 *.txt
 *myenv
 *venv
+*.snagproj
+
 
 
